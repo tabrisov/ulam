@@ -1,6 +1,6 @@
-# Quasar App (ulam)
+# Ulam spiral (quasar app)
 
-A Quasar Framework app
+https://tabrisov.github.io/
 
 ## Install the dependencies
 ```bash
